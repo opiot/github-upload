@@ -1,4 +1,4 @@
-mport os
+import os
 from flask import Flask, redirect, url_for, request, render_template
 from pymongo import MongoClient
 

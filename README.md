@@ -1,6 +1,6 @@
 # Flask Mongodb docker test
 
-##use with aws
+## use with aws
 
 install docker on aws
 sudo yum update -y
